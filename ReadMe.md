@@ -12,7 +12,7 @@ This is a Node.js E-Commerce API with user authentication using JSON Web Tokens 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/node-ecommerce-api.git
+git clone https://github.com/VPS07/node-ecommerce-api.git
 ```
 
 2. Navigate to the project directory:
