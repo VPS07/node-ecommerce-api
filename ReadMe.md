@@ -50,4 +50,5 @@ npm start
 2. Access the API at `http://localhost:3000`.
 
 ## Sawggar documentation of API
-To access swagger documentation visit at `http://localhost:5000/api-docs/`
+
+To access swagger documentation visit at `http://localhost:3000/api-docs/`
