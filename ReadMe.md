@@ -33,7 +33,7 @@ Create a `.env` file in the project root and add the following variables:
 
 ```env
 PORT=3000
-MONGODB_URI=mongodb://localhost:27017/your_database_name
+DB_URL=mongodb://localhost:27017/your_database_name
 JWT_SECRET=your-secret-key
 ```
 
