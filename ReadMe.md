@@ -6,6 +6,15 @@ This is a Node.js E-Commerce API with user authentication using JSON Web Tokens 
 
 [Swagger API docs](https://node-ecommerce-api-z69r.onrender.com/api-docs/)
 
+### How access authorized routes
+
+Please follow these steps to access authorized routes:
+
+1. Register the user and then log in using the same email and password.
+2. Upon successful login, you will receive a token. Copy this token.
+3. Click on the 'Authorize' button and paste the copied token into the provided field.
+4. Now you can access all the authorized routes.
+
 ## Prerequisites
 
 - Node.js and npm installed on your system
