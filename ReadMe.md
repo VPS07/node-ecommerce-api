@@ -2,6 +2,10 @@
 
 This is a Node.js E-Commerce API with user authentication using JSON Web Tokens (JWT), cart management, and order placement functionality.
 
+## Live API documentation
+
+[Swagger API docs](https://node-ecommerce-api-z69r.onrender.com/api-docs/)
+
 ## Prerequisites
 
 - Node.js and npm installed on your system

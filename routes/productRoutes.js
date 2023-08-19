@@ -29,6 +29,7 @@ module.exports = router;
  *         in: path
  *         required: true
  *         description: ID of the category to retrieve products for
+ *         example: 2
  *         schema:
  *           type: number
  *     responses:
@@ -61,6 +62,7 @@ module.exports = router;
  *         schema:
  *           type: string
  *         description: ID of the product
+ *         example: "64df29da7ee99d3ff3a16d94"
  *     responses:
  *       '200':
  *         description: Successful response. Returns the requested product.
